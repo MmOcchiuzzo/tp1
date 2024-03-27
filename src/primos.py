@@ -1,6 +1,3 @@
-#!/usr/bin/python3
-# Python program to display all the prime numbers within an interval
-
 lower = 1
 upper = 100
 

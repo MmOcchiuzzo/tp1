@@ -10,9 +10,9 @@ Este repositorio contiene el tp1
 
 ## Lista ordenada 2
 
-- punto 1
-- punto 2
-- punto 3
+* punto 1
+* punto 2
+* punto 3
 
 ## Lista numerada
 
@@ -26,7 +26,7 @@ esta es una lista numerada
 
 ## Figura
 
-![importante:](C:\Users\yunoa\OneDrive\Escritorio\Other\Loki.png)
+[importante:]!(C:\Users\yunoa\OneDrive\Escritorio\Other\Loki.jpeg)
 
 ## Referencia Externa
 

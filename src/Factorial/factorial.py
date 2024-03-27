@@ -36,7 +36,7 @@ def obtener_rango(argumento):
     return desde, hasta
 
 if len(sys.argv) == 1:
-    rango = input("Por favor, ingrese el rango de números (desde-hasta): ")
+    rango = input("Por favor, ingrese el rango de números (desde-hasta):")
 else:
     rango = sys.argv[1]
 

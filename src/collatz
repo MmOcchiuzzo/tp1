@@ -1,0 +1,23 @@
+import matplotlib.pyplot as plt
+
+def collatz(n):
+    count = 0
+    while n != 1:
+        if n % 2 == 0:
+            n = n // 2
+        else:
+            n = 3 * n + 1
+        count += 1
+    return count
+
+# Calcular el número de iteraciones para los números del 1 al 10000
+numeros = list(range(1, 10001))
+iteraciones = [collatz(n) for n in numeros]
+
+# Graficar los resultados
+plt.scatter(iteraciones, numeros, s=5, color='blue')
+plt.title('Número de iteraciones de Collatz para números del 1 al 10000')
+plt.xlabel('Número de iteraciones')
+plt.ylabel('Número de comienzo de la secuencia')
+plt.grid(True)
+plt.show()

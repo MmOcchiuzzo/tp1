@@ -1,17 +1,6 @@
-# Mi Proyecto Increíble
+# TP1 - ING de Software II
 
-Este repositorio contiene el código fuente de mi proyecto increíble.
-
-## Propósito
-
-El propósito de este proyecto es crear una aplicación web que permita a los usuarios gestionar sus tareas diarias de manera eficiente.
-
-## Características
-
-- Registro de usuarios
-- Creación, edición y eliminación de tareas
-- Marcado de tareas completadas
-- Notificaciones de recordatorio de tareas
+Este repositorio contiene el tp1
 
 ## Instalación
 
@@ -44,4 +33,4 @@ El propósito de este proyecto es crear una aplicación web que permita a los us
 
 ## Referencia Externa
 
-[visitar:](https://www.southpark.lat/).
+[visitar:](https://www.southpark.lat/)

@@ -26,7 +26,7 @@ esta es una lista numerada
 
 ## Figura
 
-[importante:]!(C:\Users\yunoa\OneDrive\Escritorio\Other\Loki.jpeg)
+![importante:](C:\Users\yunoa\OneDrive\Escritorio\Other\Loki.jpeg)
 
 ## Referencia Externa
 

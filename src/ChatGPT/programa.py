@@ -2,7 +2,6 @@ import openai
 import readline
 import sys
 
-openai.api_key = 
 buffer = []
 last_query = ""
 

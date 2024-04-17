@@ -1,0 +1,9 @@
+Abstract Factory podría ser útil en el desarrollo de un sistema de gestión de contenido para un sitio web. 
+Imagina que estás creando un sistema donde los usuarios pueden elegir entre diferentes tipos de contenido para publicar 
+en sus páginas, como artículos, videos y galerías de imágenes. Cada tipo de contenido puede tener diferentes estilos de 
+presentación, como estilos para dispositivos móviles, estilos para escritorio, etc. Cuando un usuario elige crear contenido 
+en su página web, el sistema utiliza la fábrica abstracta correspondiente (ya sea para dispositivos móviles o escritorio) 
+para crear el tipo de contenido deseado junto con el estilo de presentación adecuado. Esto permite una fácil extensibilidad y 
+mantenimiento, ya que puedes agregar nuevos tipos de contenido y estilos de presentación simplemente creando nuevas fábricas 
+abstractas y sus implementaciones concretas, sin necesidad de modificar el código existente del sistema de gestión de 
+contenido.

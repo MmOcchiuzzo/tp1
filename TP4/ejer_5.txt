@@ -1,0 +1,9 @@
+El Flyweight podría ser útil en la creación de un editor de texto en el que se necesite 
+manejar grandes cantidades de texto, como un procesador de textos o un editor de código.
+Imagina un editor de código que contiene varios archivos de código fuente, cada uno con miles de líneas de código. 
+Cada línea de código puede contener texto común, como palabras clave del lenguaje de programación, comentarios o cadenas 
+de texto, que se repiten a lo largo de varios archivos. 
+Podrías aplicar el patrón Flyweight para optimizar el uso de memoria al representar las cadenas de texto comunes una sola 
+vez y reutilizarlas en todas las instancias donde aparecen en los diferentes archivos. Esto sería especialmente útil 
+para optimizar el rendimiento en sistemas con recursos limitados, como dispositivos móviles o sistemas embebidos.
+
